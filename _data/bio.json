@@ -39,20 +39,23 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Developers",
+        "Steve Ballmer"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Hardware",
       "keywords": [
+         "Custom PC's",
+         "test"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Troubleshooting",
       "keywords": [
+          "RTFM"
       ]
     }
   ],
@@ -65,37 +68,37 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Powershell",
+        "CMD/BASH/VBS",
+        "XML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MDT/SCCM",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Information & Computer Science: Security Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "Currently 3.8",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Update all of this later when I'm not writing an essay",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
