@@ -10,9 +10,6 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui medium left floated image" src="../images/test.png">
-
-
 ## catchy header
 
 The importance of questioning and why thinking for yourself will win more respect than outsourcing
