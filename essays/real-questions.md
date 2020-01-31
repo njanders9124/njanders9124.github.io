@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<!-- <img class="ui medium left floated image" src="../images/test.png"> -->
+<img class="ui medium left floated image" src="../images/test.png">
 
 
 ## catchy header
