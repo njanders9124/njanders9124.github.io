@@ -137,6 +137,7 @@ Not only though their question, but also their engagement with the community has
 The field I work in is a revolving door. Technicians come and go, their habits go with them, and new ones take their place. One common thread among all of them is how they choose to ask for help when a new or particularly challenging problem comes up. The juxtaposition of Goofus and Gallant comes to mind.
 
 
+
 Gallant will ask questions about how the problem arose, goofus will ask specifically what error is being received.
 
 Gallant will play around with the error until he has informed ideas about it, goofus will stop as soon as he comes across something he's never seen before.
@@ -144,5 +145,7 @@ Gallant will play around with the error until he has informed ideas about it, go
 Gallant will consult the knowledge base articles, test the problem from various angles to know exactly where the issue is, and only discovering the broken link in the chain ask you, "Who is the appropriate party to escalate this issue to?"
 
 Goofus will have done nothing, come to you with nothing, and demand that his problem become your problem. Usually in the form, "Users are having this issue, how do I fix it?"
+
+
 
 Who would you rather work with?
