@@ -28,7 +28,8 @@ If the potential question asker has followed thru the tinker and exhaust steps, 
 ```
 A related question has been answered here.
 
-My query is, following approach-1 works, however the variation of it, that is approach-2 does not, rather it gives double the value of expected output. I can not find out why.
+My query is, following approach-1 works, however the variation of it, that is approach-2 does not, rather
+it gives double the value of expected output. I can not find out why.
 
 Approach-1
 public class Solution {
@@ -63,9 +64,11 @@ This question is very real in the sense that this isn't the asker approaching hi
 The answer is no slouch either
 
 ```
-The second approach fails because the result of 1 << i is an int, not a long. So the bit mask wraps around, and so the lower 32 bits of a get scanned twice, while the higher 32 bits of a are left uncounted.
+The second approach fails because the result of 1 << i is an int, not a long. So the bit mask wraps around, 
+and so the lower 32 bits of a get scanned twice, while the higher 32 bits of a are left uncounted.
 
-So, when i reaches the value 32, (1 << i) will not be 232, but 20 (i.e. 1), which is the same as when i was 0. Similarly when i is 33, (1 << i) will not be 233, but 21, ...etc.
+So, when i reaches the value 32, (1 << i) will not be 232, but 20 (i.e. 1), which is the same as when i was 0. 
+Similarly when i is 33, (1 << i) will not be 233, but 21, ...etc.
 
 Correct this by making the constant 1 a long:
 (1L << i)
@@ -81,9 +84,12 @@ Poor questions on the other demonstrate a persons lack of participation in the t
 The question reads:
 
 ```
-Is it possible to use CardView with RecyclerView and NavigationDrawer all together? If it is possible, someone suggest me any example based on it, and if it is not possible, then pls give me an answer explaining why it is not possible?
+Is it possible to use CardView with RecyclerView and NavigationDrawer all together? If it is possible, 
+someone suggest me any example based on it, and if it is not possible, then pls give me an 
+answer explaining why it is not possible?
 
-For example, if in this sample code given in this url: http://javatechig.com/android/android-recyclerview-example, I want to add a DrawerLayout simultaneously with RecyclerView and CardView, then is it possible or not ?????
+For example, if in this sample code given in this url: http://javatechig.com/android/android-recyclerview-example, 
+I want to add a DrawerLayout simultaneously with RecyclerView and CardView, then is it possible or not ?????
 
 Thanks in advance
 ```
@@ -93,11 +99,14 @@ Here we have a user who cannot be bothered to google. They can't even be bothere
 And the answers here pick up on his slouch.
 
 ```
-Take a look here android-developers.blogspot.in/2015/05/….. And chris banes has shown a wonderful example of its application take a look here github.com/chrisbanes/cheesesquare – George Thomas
+Take a look here android-developers.blogspot.in/2015/05/….. And chris banes has shown a 
+wonderful example of its application take a look here github.com/chrisbanes/cheesesquare – George Thomas
 ```
 And his response:
 ```
-Thank you for the example but just have query is it possible to collabrate all 3 views without using collapsingtoolbarlayout as used in example like its possible to collabrate recycleview and cardview at a time in the same manner recycleview+cardview+navigationdrawer at a time
+Thank you for the example but just have query is it possible to collabrate all 3 views without 
+using collapsingtoolbarlayout as used in example like its possible to collabrate recycleview and
+cardview at a time in the same manner recycleview+cardview+navigationdrawer at a time
 ```
 
 Another potential answer?
@@ -116,7 +125,8 @@ He really explains it very well in this series. You can also find many others on
 ```
 And a predictable response:
 ```
-Thanks for URL but i already tried recycle with cardview or recycle with navigation drawer but dont get all 3 together and that video is not in working :)
+Thanks for URL but i already tried recycle with cardview or recycle with navigation drawer but 
+dont get all 3 together and that video is not in working :)
 ```
 
 Not only though their question, but also their engagement with the community has this person demonstrated their disdain for search. They've posed a question and when given the response that the information has been posted in superior formats, they demand that the anser'ers rechew the information into something he prefers.
