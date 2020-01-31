@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Real Question: How what you ask reflects on you.
+title: Real Questions - How what you ask reflects on you.
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
