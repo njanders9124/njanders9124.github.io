@@ -123,13 +123,11 @@ Not only though their question, but also their engagement with the community has
 
 ## Thoughts from a Lead Technician
 
-The field I work in is a revolving door. Technicians come and go
+The field I work in is a revolving door. Technicians come and go, their habits go with them, and new ones take their place. One common thread among all of them is how they choose to ask for help when a new or particularly challenging problem comes up. The juxtaposition of Goofus and Gallant comes to mind.
 
-Work scenario
-"A user can't reach this website"
-vs
-"I've tried to reach this website both on the secure network and on commercial internet, it only works on commercial but doesn’t work on the secure network. All users in the customers office are also unable to reach it but users on another site can. It’s pinging the domain controller but times out from there, who can I talk to about this issue?"
+Gallant will ask questions about how the problem arose, goofus will ask specifically what error is being received.
+Gallant will play around with the error until he has informed ideas about it, goofus will stop as soon as he comes across something he's never seen before.
+Gallant will consult the knowledge base articles, test the problem from various angles to know exactly where the issue is, and only discovering the broken link in the chain ask you, "Who is the appropriate party to escalate this issue to?"
+Goofus will have done nothing, come to you with nothing, and demand that his problem become your problem. Usually in the form, "Users are having this issue, how do I fix it?"
 
-## Conclusion
-
-actual reflection on questions "smartness", why they reflect on the person who asked them, and why RTFM is a valid response
+Who would you rather work with?
