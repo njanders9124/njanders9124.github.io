@@ -134,7 +134,7 @@ Not only though their question, but also their engagement with the community has
 
 ## Thoughts from a Lead Technician
 
-The field I work in is a revolving door. Technicians come and go, their habits go with them, and new ones take their place. One common thread among all of them is how they choose to ask for help when a new or particularly challenging problem comes up. The juxtaposition of Goofus and Gallant comes to mind.
+The field I work in is a revolving door. Technicians come and go, new ones take their place, very little 'lingers'. One common thread among all of them is how they choose to ask for help when a new or particularly challenging problem comes up. The juxtaposition of Goofus and Gallant comes to mind.
 
 
 
