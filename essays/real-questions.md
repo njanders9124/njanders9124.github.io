@@ -129,7 +129,7 @@ Thanks for URL but i already tried recycle with cardview or recycle with navigat
 dont get all 3 together and that video is not in working :)
 ```
 
-Not only though their question, but also their engagement with the community has this person demonstrated their disdain for search. They've posed a question and when given the response that the information has been posted in superior formats, they demand that the anser'ers rechew the information into something he prefers.
+Not only though their question, but also their engagement with the community has this person demonstrated their disdain for search. They've posed a question and when given the response that the information has been posted in superior formats, they demand that the answer'ers rechew the information into something he prefers.
 
 
 ## Thoughts from a Lead Technician
