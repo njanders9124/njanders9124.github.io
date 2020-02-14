@@ -11,7 +11,7 @@ labels:
   - Program Standards
 ---
 
-##Small Junkyard Syndrome
+## Small Junkyard Syndrome
 
 Imagine you've been working on something for years. You, and only you, have developed a piece of software, or perhaps a scale model castle, or even a Lego Technic Set. You've created something from the ground up, something from nothing, and you understand how every little mechanism interacts with all the other ones to get the results you want. Variable names are haphazardly thrown together, hallways that exist only for structural support, gears that grind when the motor is running on hi-mode. You understand every detail because you dictated its creation.
 
@@ -20,7 +20,7 @@ Now imagine having to hand that project off to someone else.
 This is something I like to call 'Small Junkyard Syndrome.' The work you've done developing this absolute specimen scales poorly if it gets large enough to have to involve someone else. Or even if you go on vacation with parts laying around the office, returning only to realize you don't remember how anything works and didn't bother writing anything down. You've created you own little junkyard of goodies and are top dawg at the pile, but you've limited your creation to only what you can reasonably keep in your head.
 
 
-##Coding Standards
+## Coding Standards
 
 This whole, return to the mess I created, happened recently when I was going over some code for a Euler Problem that I'd written a forgettably lone time ago.
 Look at this section of code and try to figure out what it's doing.
@@ -57,7 +57,7 @@ public static boolean isPrime(int checkThis){
 
 Almost at a glance, you know what everything is doing, why it's there, and can outline what's going on.
 
-##Organization vs. Opinion
+## Organization vs. Opinion
 
 This isn't to say Coding Standards have to dictate every keystroke into your IDE. Whether ```i=0``` or ```i = 0``` is correct is for noone but a tyrant to decide. The real choices lie in whether anything can be global, the naming schemes for variables, how to handle user input across your program, or how to balance readability and writability.
 There aren't many hard and fast rules that will apply to every software environment, but there are a few generalized goals to want out of any coding standard.
@@ -69,6 +69,6 @@ Another is, as the eminent Joel Spolsky puts it ```Look for coding conventions t
 A last thing I can think of is to keep human failings in mind. Is your function so long that your opening bracket is 14 mouse wheels away from your closing bracket? Now you and everone before and after you will have to keep those variable scopes in mind while scrolling, good luck with that. Having a big screen is nice, but having a standard that says brackets should be on one screen is smart. 
 
 
-##Scaling Up
+## Scaling Up
 
 This small junkyard syndrome has to be kept at bay in order for any large organization (anything larger that just you) to create software worth using. Anything created at scale requires the dedicated effort of many programmers and the quickest way to make sure you end up with an unmaintainable mess is to go in with no Coding Standards.
