@@ -25,12 +25,17 @@ All of these boxes vary greatly in their importance. How many of you reading thi
 
 ## The interface as programming
 
-The ease of how a potential user interacts with your program will probably determine how many people actually end up using it. As an example, how many of us mailed in a 1040 this year? Chances are good if you're reading an essay on UI design that you probably used a website that wraps all those messy forms into a neat package that looks something like this:
+The ease of how a potential user interacts with your program will probably determine how many people actually end up using it. As an example, how many of us mailed in or even manually filled out a filed a 1040 this year? Chances are good if you're reading an essay on UI design that you probably used a website that wraps all those messy forms into a neat package that looks something like this:
 
 <img class="ui medium right floated rounded image" src="../images/TurboTax.png">
 
-While UI and graphical UI aren't normally high ranking to your average programmer, their implementation can determine whether or not anyone actually chooses to use your program. In the case of filing your taxes, we can see how this ease of formatting can influence mass user behaviour simply by looking at the IRS' own statistics on filing:
+While UI and graphical UI aren't normally high ranking in 'coolness' to your average programmer, their implementation can determine whether or not anyone actually chooses to engage with your program. In the case of filing your taxes, we can see how this ease of formatting can influence mass user behaviour simply by looking at the IRS' own statistics on filing:
 
 <img class="ui medium right floated rounded image" src="../images/E-File.png">
 
-I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think of your own choice to use the more visually appealing option when given that choice. Now imagine you're trying to ask people to pay for a piece of software that you've designed, do you think something that looks like 
+I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think of your own choice to use the more visually appealing option when given that choice. Now imagine you're trying to ask people to pay for a piece of software that you've designed, do you think something that looks like the 1040 will have people scrambling to open their wallets? (hint: Intuit, makers of TurboTax, had $6.7B in revenue last year)
+
+## UI design from the maker's end
+
+But a user never has to see how the sausage is made with their websites. They've never had to deal with CSS or html classes or !important for hours only to produce a website like <a href="http://dancing-baby.net/Babygif.htm>dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.
+But then again, neither do we. 
