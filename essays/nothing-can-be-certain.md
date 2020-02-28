@@ -21,7 +21,7 @@ Naturally this got me thinking about user interfaces and how the work I do to de
 
 <img class="ui center floated rounded image" src="../images/1040EZ.png">
 
-All of these boxes vary greatly in their importance. How many of you reading this actually received tax-exempt interest or qualified dividends? Yet despite this discrepancy in value, visually all of them receive the same importance on the form.  The box for your yearly wages receives no more space than the box for social security payouts or capital gains. It's a mess.
+All of these boxes vary greatly in their importance. How many of you reading this actually received tax-exempt interest or qualified dividends? Yet despite this discrepancy in value, visually they're all treated as equals.  The box for your yearly wages receives no more space than the box for social security payouts or capital gains and for descriptions of each box you're told to refer to a different section of the form. It's a mess.
 
 ## The interface as programming
 
