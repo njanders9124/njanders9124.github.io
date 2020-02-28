@@ -27,7 +27,7 @@ All of these boxes vary greatly in their importance. How many of you reading thi
 
 The ease of how a potential user interacts with your program will probably determine how many people actually end up using it. As an example, how many of us mailed in or even manually filled out a filed a 1040 this year? Chances are good if you're reading an essay on UI design that you probably used a website that wraps all those messy forms into a neat package that looks something like this:
 
-<img class="ui medium right floated rounded image" src="../images/TurboTax.png">
+<img class="ui center floated rounded image" src="../images/TurboTax.png">
 
 While UI and graphical UI aren't normally high ranking in 'coolness' to your average programmer, their implementation can determine whether or not anyone actually chooses to engage with your program. In the case of filing your taxes, we can see how this ease of formatting can influence mass user behaviour simply by looking at the IRS' own statistics on filing:
 
