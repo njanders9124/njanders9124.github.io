@@ -33,7 +33,7 @@ While UI and graphical UI aren't normally high ranking in 'coolness' to your ave
 
 <img class="ui center floated rounded image" src="../images/E-File.png">
 
-I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think which one you'd choose. Now imagine the other side of that desisn. Imagine you're trying to ask people to pay for a piece of software that you've designed. Do you think something that looks like the 1040 will have people scrambling to open their wallets? (hint: Intuit, makers of TurboTax, had $6.7B in revenue last year)
+I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think which one you'd choose. Now imagine the other side of that design. Imagine you're trying to ask people to pay for a piece of software that you've created. Do you think something that looks like the 1040 will have people scrambling to open their wallets? (hint: Intuit, makers of TurboTax, had $6.7B in revenue last year)
 
 ## UI design from the maker's end
 
