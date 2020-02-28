@@ -43,6 +43,6 @@ But then again, neither do we.
 
 The joy of living in {current year} is that we're able to stand on the shoulders of the giants that came before us. They've already abstracted us away from pure HTML/CSS and given us things like SemanticUI, React, Vue, et al.  These frameworks allow us to replace tomes of css stylesheets with simple phrases that are slipped into the classes of each div. Instead of creating a css that wraps up a paragraph and gives it dynamic edges, box shadows, borders, and menu properties, all we need to do is slap a class="ui container" in there and move on to more important things like figuring out what a <a href="https://www.investopedia.com/terms/w/withholdingallowance.asp">tax allowance</a> is. 
 
-They package common design elements like menus, grids, and transitions into classes that can be applied to any webpage. Which allows us developers to focus on other aspects of our software while also create something that's useful and aesthetically pleasing to the user.
+They package common design elements like menus, grids, and transitions into classes that can be applied to any webpage. Which allows us developers to focus on other aspects of our software while also creating something that's useful and aesthetically pleasing to the user.
 
 And of this we can be certain, if your website or program is ugly, no one will pay you to use it.
