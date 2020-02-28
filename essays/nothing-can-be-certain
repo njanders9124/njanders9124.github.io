@@ -1,0 +1,23 @@
+---
+layout: essay
+type: essay
+title: Real Questions - How what you ask reflects on who you are.
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-27
+labels:
+  - Taxes
+  - Tax Season
+  - UI
+  - UI Design
+  - UI Frameworks
+  - SemanticUI
+---
+
+## This is a header
+
+This is paragraph text
+
+```
+This is code
+```
+
