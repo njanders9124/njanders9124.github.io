@@ -37,7 +37,7 @@ I understand that some other factors are influencing those percentages, such as 
 
 ## UI design from the maker's end
 
-But a user never has to see how the sausage is made with their websites. They've don't have to deal with CSS, html classes, or !important for hours only to produce a website that looks like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.
+But a user never has to see how the sausage is made with their websites. They don't have to deal with CSS, html classes, or !important for hours only to produce a website that looks like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.
 
 But then again, neither do we. 
 
