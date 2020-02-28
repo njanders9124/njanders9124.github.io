@@ -15,9 +15,9 @@ labels:
 
 ## Except Death and Taxes
 
-As tax season rolls around another year I prepare to deal with another stack of papers that will serve one purpose for a few days and then spend a lifetime in my filing cabinet. Tax season is never something to look forward to, no matter how many times the IRS decides to add the abbreviation EZ to their 1040 form. 
+As tax season rolls around another year, I prepare to deal with another stack of papers that will serve one purpose for a few days and then spend a lifetime in my filing cabinet. Tax season is never something I look forward to, no matter how many times the IRS decides to add the abbreviation EZ to their 1040 form. 
 
-Naturally this got me thinking about user interfaces and how the work I do before the user gets there ends up effecting how my product is treated. But first, look at the absolute state of this form.
+Naturally this got me thinking about user interfaces and how the work I do to develop a user's environment before the user ever gets there ends up effecting how they treat the entire product. But first, look at the absolute state of this tax form.
 
 <img class="ui medium right floated rounded image" src="../images/1040EZ.png">
 
@@ -37,5 +37,12 @@ I understand that some other factors are influencing those percentages, such as 
 
 ## UI design from the maker's end
 
-But a user never has to see how the sausage is made with their websites. They've never had to deal with CSS or html classes or !important for hours only to produce a website like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.
-But then again, neither do we. 
+But a user never has to see how the sausage is made with their websites. They've don't have to deal with CSS or html classes or !important for hours only to produce a website that looks like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.  But then again, neither do we. 
+
+The joy of living in {current year} is that we're able to stand on the shoulders of the giants that came before us who have already abstracted us away from dealing with pure HTML and CSS. They've given us things such as SemanticUI, React, Vue, et al. 
+
+These frameworks allow us to replace tomes of css stylings with simple phrases that are slipped into the classes of each div. Instead of creating a css that wraps up a paragraph and gives it dynamic edges, box shadows, and borders, we could just slap a class="ui container" in there and move on to more important things like figuring out how to center two columns on a background image. 
+
+They package common design elements like menus, grids, and transitions into classes that can be applied to any webpage. Which allows us developers to focus on other aspects of our software while also create something that's useful and aesthetically pleasing to the user.
+
+And of this we can be certain, if your website or program is ugly, no one will pay you to use it.
