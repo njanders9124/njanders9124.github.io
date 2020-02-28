@@ -33,15 +33,15 @@ While UI and graphical UI aren't normally high ranking in 'coolness' to your ave
 
 <img class="ui center floated rounded image" src="../images/E-File.png">
 
-I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think of your own choice to use the more visually appealing option when given that choice. Now imagine you're trying to ask people to pay for a piece of software that you've designed, do you think something that looks like the 1040 will have people scrambling to open their wallets? (hint: Intuit, makers of TurboTax, had $6.7B in revenue last year)
+I understand that some other factors are influencing those percentages, such as the increasing prevalence of the internet and people manually E-filing, but just think which one you'd choose. Now imagine the other side of that desisn. Imagine you're trying to ask people to pay for a piece of software that you've designed. Do you think something that looks like the 1040 will have people scrambling to open their wallets? (hint: Intuit, makers of TurboTax, had $6.7B in revenue last year)
 
 ## UI design from the maker's end
 
-But a user never has to see how the sausage is made with their websites. They've don't have to deal with CSS or html classes or !important for hours only to produce a website that looks like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.  But then again, neither do we. 
+But a user never has to see how the sausage is made with their websites. They've don't have to deal with CSS, html classes, or !important for hours only to produce a website that looks like <a href="http://dancing-baby.net/Babygif.htm">dancing baby</a> or <a href=https://templeos.org/>TempleOS</a>.
 
-The joy of living in {current year} is that we're able to stand on the shoulders of the giants that came before us who have already abstracted us away from dealing with pure HTML and CSS. They've given us things such as SemanticUI, React, Vue, et al. 
+But then again, neither do we. 
 
-These frameworks allow us to replace tomes of css stylings with simple phrases that are slipped into the classes of each div. Instead of creating a css that wraps up a paragraph and gives it dynamic edges, box shadows, and borders, we could just slap a class="ui container" in there and move on to more important things like figuring out how to center two columns on a background image. 
+The joy of living in {current year} is that we're able to stand on the shoulders of the giants that came before us. They've already abstracted us away from pure HTML/CSS and given us things like SemanticUI, React, Vue, et al.  These frameworks allow us to replace tomes of css stylesheets with simple phrases that are slipped into the classes of each div. Instead of creating a css that wraps up a paragraph and gives it dynamic edges, box shadows, borders, and menu properties, all we need to do is slap a class="ui container" in there and move on to more important things like figuring out what a <a href="https://www.investopedia.com/terms/w/withholdingallowance.asp">tax allowance</a> is. 
 
 They package common design elements like menus, grids, and transitions into classes that can be applied to any webpage. Which allows us developers to focus on other aspects of our software while also create something that's useful and aesthetically pleasing to the user.
 
