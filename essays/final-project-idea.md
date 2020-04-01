@@ -19,6 +19,7 @@ The Manoa Reading Club would be a place for students to:<br>
   - Search books that have been posted
 
 ### Approach
+
 The goal of this site would be to provide a local outlet for readers to meetup and discuss books together on campus. The website would have three roles Student, Organizer, and Admin.<br>
  - Students would be able to post books, post reviews under books, and signup for events.<br>
  - Organizers would be able to do everything a student can in addition to posting events.<br>
@@ -27,6 +28,7 @@ The goal of this site would be to provide a local outlet for readers to meetup a
 Information on events can be projected onto a map of UH Manoa to show their location and the library information for each book can be scraped aswell.
 
 ### Mockup Page ideas
+
 Pages would include, but are not limited to:<br>
  - Landing page
  - Books page
@@ -36,12 +38,14 @@ Pages would include, but are not limited to:<br>
  - Search page
  
  ### Use case ideas
+ 
  Possible use cases include, but are not limited to:
   - New user would create an account, browse the books pages for something they're interested in, see whether that book has any upcoming events, and signup for said events.
   - A long standing user could apply for Organizer status. After being approved by the admin, they can post events in the calendar page.
  - Admins login, browse applications, and moderate posts made under books and in events.
  
  ### Beyond the basics
+ 
 Some future ideas:
  - Sort books by tags/keywords/topics
  - Have everything be chrome plated just like in spongebob
