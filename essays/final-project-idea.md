@@ -37,16 +37,16 @@ Pages would include, but are not limited to:<br>
  - Event page
  - Search page
  
- ### Use case ideas
+ ### Use cases <br>
  
- Possible use cases include, but are not limited to:
+ Possible use cases include, but are not limited to: 
   - New user would create an account, browse the books pages for something they're interested in, see whether that book has any upcoming events, and signup for said events.
   - A long standing user could apply for Organizer status. After being approved by the admin, they can post events in the calendar page.
  - Admins login, browse applications, and moderate posts made under books and in events.
  
- ### Beyond the basics
+ ### Beyond the basics<br>
  
-Some future ideas:
+Some future ideas: 
  - Sort books by tags/keywords/topics
  - Have everything be chrome plated just like in spongebob
  - Have a 'friend' system. Students could add friends and see their posted reviews and signed up events
