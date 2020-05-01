@@ -5,8 +5,8 @@ title: Designing Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
 labels:
-  - Coronavirus
-  - Covid-19
+  - Design Patterns
+  - Software Engineering
   - College
 ---
 
@@ -21,3 +21,5 @@ Say you've got a television. You've probably got a remote which controls that te
 When a main method calls a class remote(), we don't necessarily need to see things like remote.buttonPress, remote.backspace, or remote.transmit. These are artifacts leftover from the fact that the person making this started from the ground up and added one thing on top of another.
 
 When it comes to designing patterns, things are viewed the other way round. You first start with an overview of what's necessary and work out from there. The main method will now call a generic remote() command and the remote() class will call each of it's classes internally, simplifying what the other programmers have to interact with. Using this shift in focus, classes can be decoupled, dependecies can be reduced, and you enter a new software project with an idea in mind of how you can apply a generic template or idea first and then move on to implement those patterns line by line.
+
+Design patterns aren't meant to be a tool wielded by programmers to help them solve immediate algorithm issues like, they're a lens with which to view your new projects before you even write the first line.
