@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ManoaFitnessFinderLogo.png
+image: images/ManoaFitnessFinderLogo.PNG
 title: Manoa Fitness Finder
 permalink: projects/manoafitnessfinder
 # All dates must be YYYY-MM-DD format!
