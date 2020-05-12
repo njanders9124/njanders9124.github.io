@@ -31,15 +31,16 @@
     {
       "name": "Programming",
       "keywords": [
-        "Developers",
-        "Steve Ballmer"
+        "Low level",
+        "Java",
+        "C++/C"
       ]
     },
     {
       "name": "Computer Hardware",
       "keywords": [
          "Custom PC's",
-         "test"
+        "Server builds"
       ]
     },
     {
