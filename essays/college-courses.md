@@ -35,19 +35,3 @@ Personal list of classes that teach all three. Can't list ones that occured in m
 S-tier
 Chemistry 161, Reese.
 Calculus 241, Garcia.
-
-
-
-EXAMPLE TEXT
-#Big Title
-##Medium Title
-###Small Title
-####Smaller Title
-#####What even is this Title
-~~~
-if (```) {
-    code goes here
-} else {
-    What am I doing with my life
-}
-~~~
