@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/ManoaFitnessFinderLogo.png
+title: Manoa Fitness Finder
+permalink: projects/manoafitnessfinder
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
