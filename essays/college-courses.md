@@ -10,7 +10,7 @@ labels:
   - College
 ---
 
-# The Making of a College Cou**rse
+# The Making of a College Course
 
 
 
