@@ -5,13 +5,13 @@ image: images/ManoaFitnessFinderLogo.PNG
 title: Manoa Fitness Finder
 permalink: projects/manoafitnessfinder
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-05-12
 labels:
   - Javascript
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A web application for hosting workout events in the Manoa area.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/ManoaFitnessFinder.PNG">
